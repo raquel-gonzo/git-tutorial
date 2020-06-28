@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+/* font-family: 'Source Code Pro', monospace; */
+
+* {
+    font-family: 'Source Code Pro', monospace;
+}
+
+span {
+    color: chartreuse; 
+    background-color: midnightblue;
+}
